@@ -1,0 +1,17 @@
+                                                                        PROJECT
+
+This project is about creating a supervised ML model which predicts the hearing test of a person ( 0 for fail 1 for pass) based on two aspects ----- age and physical score
+
+                                                                     RANGE OF ASPECTS
+Age : 18-90
+Physical score : 0-50
+ 
+                                                                 WHAT I DID IN THIS PROJECT
+
+Evaluated different supervised ML algorithms to check which algo gives best accuracy score and then used it with tkinter to create GUI for predicting new data.
+
+                                                                  IS THIS THE FINAL PROJECT?
+No, there is always room for improvement. Will keep updating the project as I get new ideas.
+
+                                                                     LETS' WORK TOGETHER
+If you have any new ideas,you can fork the project and pull requests.
